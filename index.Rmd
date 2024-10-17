@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+Wrting words is easy, but writing good words is hard.
+
+Look at this link, [google](https://www.google.com/), links are fun to click when they don't come from unkown senders.
+
+Look at this cat, how fitting for Halloween.
+
+![](/Users/cameronchesbrough/Downloads/spooky.jpeg)
+
